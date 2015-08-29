@@ -10,4 +10,5 @@ mouse shortcuts:
 * "medium" (~2 seconds) middle click is play/stop
 * middle click is pause/resume
 * left/right buttons are next/prev
+* long press left/right buttons seeks
 * vertical scroll wheel controls volume
